@@ -29,6 +29,7 @@ Quick reference for deploying and debugging hardware for the supported task plat
 | Parameter | Value |
 |-----------|-------|
 | Center camera height (from table top) | 76 cm |
+| Center camera view – mount angle | 30° |
 | Left secondary arm → table front edge | 18 cm |
 | Right secondary arm → table front edge | 18 cm |
 | Center base → left secondary arm center | 34 cm |
@@ -42,6 +43,7 @@ Quick reference for deploying and debugging hardware for the supported task plat
 | Parameter | Value |
 |-----------|-------|
 | Center camera height (from table top) | 93 cm |
+| Center camera view – mount angle | 30° |
 | Left secondary arm → table front edge | 27 cm |
 | Right secondary arm → table front edge | 27 cm |
 | Center base → left secondary arm center | 16 cm |
@@ -94,6 +96,7 @@ Quick reference for deploying and debugging hardware for the supported task plat
 | Parameter | Value |
 |-----------|-------|
 | Center camera height (from table top) | 93 cm |
+| Center camera view – mount angle | 30° |
 | Left secondary arm base → table front edge | 45 cm |
 | Right secondary arm base → table front edge | 87 cm |
 | Center base → left secondary arm center | 22 cm |
